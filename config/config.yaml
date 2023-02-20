@@ -1,0 +1,10 @@
+app_name: answer
+
+port: :8000
+
+redis:
+  ip: 127.0.0.1
+  port: 6379
+
+es:
+  host: http://39.106.52.250:9200
